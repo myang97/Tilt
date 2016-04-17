@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\College\AndroidStudioProjects\Tilt\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="C:\College\AndroidStudioProjects\Tilt\app\build\intermediates\pre-dexed\debug\classes-afff536e777fce13a06d99431239d8fef105931e.jar" />
+    </item>
+    <item
+        jar="C:\College\AndroidStudioProjects\Tilt\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="C:\College\AndroidStudioProjects\Tilt\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0-93c2aa6b80dedef92f28a6b12dcb99cc727f740f.jar" />
+    </item>
+    <item
+        jar="C:\College\AndroidStudioProjects\Tilt\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="C:\College\AndroidStudioProjects\Tilt\app\build\intermediates\pre-dexed\debug\classes-73df9377f32e33a4791ad2e0235bdeba343b8b87.jar" />
+    </item>
+    <item
+        jar="C:\College\AndroidStudioProjects\Tilt\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="C:\College\AndroidStudioProjects\Tilt\app\build\intermediates\pre-dexed\debug\classes-9faa169b792abd16b387c9d213828f390f924e71.jar" />
+    </item>
+    <item
+        jar="C:\College\AndroidStudioProjects\Tilt\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="C:\College\AndroidStudioProjects\Tilt\app\build\intermediates\pre-dexed\debug\classes-5f9ab9a27015c5b0c39cb98c9f80cd3ba0e74b08.jar" />
+    </item>
+    <item
+        jar="C:\Users\lkjjkl97\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="C:\College\AndroidStudioProjects\Tilt\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0-4bb9dc02102999f9f8de2aee51a3fe1a7ba5a530.jar" />
+    </item>
+
+</items>
